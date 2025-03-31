@@ -37,8 +37,8 @@ Three predefined city datasets are included in each script:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Derrick-M99/tsp-metaheuristics.git
-cd tsp-metaheuristics
+git clone https://github.com/Derrick-M99/metaheuristic-tsp.git
+cd metaheuristic-tsp
 ```
 
 2. Run any script:
